@@ -11,7 +11,7 @@ The CLI (Command Line Interface) calculator app is a simple calculator capable o
 **Addition:** `python app.py 5 + 3` will output `The result is 8.`<br>
 **Subtraction:** `python app.py 10 - 4` will output `The result is 6.`<br>
 **Multiplication:** `python app.py 6 x 7` will output `The result is 42.`<br>
-**Devision:** `python app.py 10 / 2` will output `The result is 5.`
+**Division:** `python app.py 10 / 2` will output `The result is 5.`
 
 ## Example:
 Here's how you can do it. To add two numbers:
